@@ -1,0 +1,2 @@
+# CS-project
+hacktober fest
